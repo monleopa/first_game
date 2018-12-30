@@ -1,0 +1,6 @@
+Run File PlayGame de choi
+
+Dung 4 phim mui ten de di chuyen nhan vat Mario
+An Vang de tinh diem
+An Nam la thua
+Moi khi an 1 dong vang se sinh ra 1 nam
